@@ -1,0 +1,12 @@
+	component Reloj_system is
+		port (
+			clk_clk                                : in  std_logic                    := 'X';             -- clk
+			pio_1_hex_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
+			pio_2_hex_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
+			pio_3_hex_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
+			pio_4_hex_external_connection_export   : out std_logic_vector(6 downto 0);                    -- export
+			pio_botones_external_connection_export : in  std_logic_vector(2 downto 0) := (others => 'X'); -- export
+			reset_reset_n                          : in  std_logic                    := 'X'              -- reset_n
+		);
+	end component Reloj_system;
+

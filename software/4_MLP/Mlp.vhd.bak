@@ -1,0 +1,38 @@
+--=======================================================
+--  This code is based on the Terasic System Builder top level
+--=======================================================
+
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Mlp is
+    port (
+        -- CLOCK
+        CLOCK2_50 : in std_logic;
+        CLOCK3_50 : in std_logic;
+        CLOCK4_50 : in std_logic;
+        CLOCK_50  : in std_logic;
+
+        -- KEY
+        KEY       : in std_logic_vector(3 downto 0)
+    );
+end entity Mlp;
+
+architecture structural of Mlp is
+
+    component Mlp_system is
+        port (
+            clk_clk       : in std_logic := 'X';
+            reset_reset_n : in std_logic := 'X'
+        );
+    end component Mlp_system;
+
+begin
+
+    u0 : component Mlp_system
+        port map (
+            clk_clk       => CLOCK_50,
+            reset_reset_n => KEY(0)
+        );
+
+end architecture structural;

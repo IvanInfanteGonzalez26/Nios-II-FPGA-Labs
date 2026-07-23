@@ -1,0 +1,10 @@
+	component Vga_hw_system is
+		port (
+			clk_clk                                    : in  std_logic                     := 'X'; -- clk
+			pio_mem_address_external_connection_export : out std_logic_vector(14 downto 0);        -- export
+			pio_mem_data_external_connection_export    : out std_logic_vector(7 downto 0);         -- export
+			pio_mem_write_external_connection_export   : out std_logic;                            -- export
+			reset_reset_n                              : in  std_logic                     := 'X'  -- reset_n
+		);
+	end component Vga_hw_system;
+

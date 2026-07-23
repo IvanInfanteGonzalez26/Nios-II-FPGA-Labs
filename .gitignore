@@ -1,0 +1,61 @@
+# Quartus: bases de datos y resultados de compilacion
+**/db/
+**/incremental_db/
+**/output_files/
+**/greybox_tmp/
+**/.qsys_edit/
+**/simulation/
+**/*_sim/
+*.qws
+*.qdf
+*.rpt
+*.summary
+*.smsg
+*.chg
+*.log
+*.done
+*.jdi
+*.pin
+*.sof
+*.pof
+*.rbf
+*.sld
+
+# Platform Designer: productos regenerables
+**/synthesis/
+**/testbench/
+*.sopcinfo
+*.html
+
+# Nios II: resultados de compilacion
+**/Debug/
+**/Release/
+*.elf
+*.obj
+*.o
+*.a
+*.map
+*.hex
+*.mif
+
+# Eclipse: metadatos del workspace
+**/.metadata/
+**/.settings/
+*.launch
+
+# Python
+**/__pycache__/
+*.py[cod]
+**/.venv/
+**/.venv-*/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+
+# Contexto local para asistentes (no publicar)
+/CONTEXTO_PROYECTO.md

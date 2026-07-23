@@ -1,0 +1,84 @@
+Quartus Prime Archive log --	C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw.qarlog
+
+Archive:	C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw.qar
+Date:		Thu Jul 23 14:18:15 2026
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Memoria_ram.cmp
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Memoria_ram.qip
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Memoria_ram.vhd
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/PLL.cmp
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/PLL.qip
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/PLL.sip
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/PLL.spd
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/PLL.vhd
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/PLL/PLL_0002.qip
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/PLL/PLL_0002.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/PLL_sim/PLL.vho
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw.qpf
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw.qsf
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw.sdc
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw.vhd
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_assignment_defaults.qdf
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system.qsys
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system.sopcinfo
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/Vga_hw_system.bsf
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/Vga_hw_system.cmp
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/Vga_hw_system.html
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/Vga_hw_system.xml
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/Vga_hw_system_bb.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/Vga_hw_system_generation.rpt
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/Vga_hw_system_inst.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/Vga_hw_system_inst.vhd
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/Vga_hw_system.debuginfo
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/Vga_hw_system.qip
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/Vga_hw_system.regmap
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/Vga_hw_system.vhd
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_irq_mapper.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_jtag_uart_0.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_avalon_st_adapter.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_cmd_demux.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_cmd_demux_001.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_cmd_mux.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_cmd_mux_001.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_router.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_router_001.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_router_002.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_router_003.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_rsp_demux.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_rsp_mux.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_mm_interconnect_0_rsp_mux_001.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0_cpu.sdc
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0_cpu.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0_cpu_debug_slave_sysclk.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0_cpu_debug_slave_tck.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0_cpu_debug_slave_wrapper.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0_cpu_ociram_default_contents.mif
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0_cpu_rf_ram_a.mif
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0_cpu_rf_ram_b.mif
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_nios2_gen2_0_cpu_test_bench.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_onchip_memory2_0.hex
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_onchip_memory2_0.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_pio_mem_address.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_pio_mem_data.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/Vga_hw_system_pio_mem_write.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_avalon_sc_fifo.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_merlin_arbitrator.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_merlin_master_agent.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_merlin_master_translator.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_merlin_slave_agent.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_merlin_slave_translator.sv
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_reset_controller.sdc
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_reset_controller.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/Vga_hw_system/synthesis/submodules/altera_reset_synchronizer.v
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/controlador_vga.vhd
+C:/Users/Ivan/Documents/Nahualand/Unidad_2/SE_NiosII/hardware/5_VGA/memoria_write_guard.vhd
+	======= Total: 73 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
